@@ -1,0 +1,3 @@
+- This is a stopwatch web application with which helps record a set amount of time with functions to start, pause and reset the stopwatch.
+- This web application also tracks and displays lap times.
+- This was implimented with the help of HTML, CSS and JS.
